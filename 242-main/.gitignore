@@ -1,0 +1,4 @@
+dist/
+discount-zip/
+node_modules/
+.local/
